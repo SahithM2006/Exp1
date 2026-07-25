@@ -1,15 +1,15 @@
-Image-Handling-and-Pixel-Transformations-Using-OpenCV
-AIM:
+# Image-Handling-and-Pixel-Transformations-Using-OpenCV
+# AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
 Read and Display an Image.
 Adjust the brightness of an image.
 Modify the image contrast.
 Generate a third image using bitwise operations.
-Software Required:
+# Software Required:
 Anaconda - Python 3.7
 Jupyter Notebook (for interactive development and execution)
-Algorithm:
+# Algorithm:
 Step 1:
 Load an image from your local directory and display it.
 
